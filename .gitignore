@@ -1,0 +1,36 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.class
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+gradle-app.setting
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+.gradletasknamecache
+
+*.png
+/venv
+/data_fetcher/.idea
+/data_fetcher/build
+
+
+# don't post privacy concerning database keys
+google-services.json
+/data_fetcher/firebase_key.json

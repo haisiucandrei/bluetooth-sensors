@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">bluetooth-sensors</string>
+    <string name="textview">TextView</string>
+    <string name="button_clear">clear</string>
+    <string name="button_add_device">Add</string>
+    <string name="edittext_add_device">device MAC…</string>
+    <string name="text_add_device">Add a new sensor node</string>
+    <string name="text_commands">Commands</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_enable_bt">Enable Bluetooth</string>
+    <string name="button_help">Help</string>
+    <string name="button_list">Print device list</string>
+    <string name="title_device_list">Bonded Sensor Device List</string>
+    <string name="devices_list_filename">sensor_devices.txt</string>
+    <string name="device_status_default">disconnected</string>
+    <string name="literal_temp">Temperature</string>
+    <string name="literal_pressure">Pressure</string>
+    <string name="connected_message">connected</string>
+    <string name="disconnected_message">disconnected</string>
+    <string name="log_tag">BT_SENSORS</string>
+    <string name="text_test_alert">Test alert</string>
+    <string name="database_url">https://bluetooth-sensors-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="text_save_locally">Save data locally</string>
+    <string name="text_save_remotely">Save data remotely</string>
+    <string name="literal_ch4">CH4</string>
+    <string name="literal_CO">CO</string>
+    <string name="literal_celsius">°C</string>
+    <string name="literal_value_placeholder">-</string>
+    <string name="literal_hpa">hPa</string>
+    <string name="literal_ppm">ppm</string>
+    <string name="literal_Humidity">Hum</string>
+</resources>
